@@ -1,7 +1,3 @@
-#Molly Cronin, Anya Fitzgerald, Brian MacSweeney
-#12/8/19
-#Com110 Final Project
-#This is a game of Hangman where the user will try to guess the word against the computer based on the level they choose
 from graphics import *
 from ClassButton import *
 from random import *
